@@ -9,6 +9,8 @@ I took heavy inspiration from Lovecraft's Call of Cthulhu for the vibe and inter
 
 The overall gloomy and oppressive tone with the lighting, scene and fog is something I am very happy with and would like to return to.
 
+[Very speedy video](https://vimeo.com/manage/videos/897297377) (I cannot do a concise video to save my life, I need to start writing scripts)
+
 ### References
 
 - [Guide used for creating Highlight Material](https://www.youtube.com/watch?v=rGqlReFObYQ)
